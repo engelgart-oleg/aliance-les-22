@@ -169,7 +169,7 @@
       <div class="header-content">
         <div class="seporator"></div>
         <h1 class="header-title">
-          <?php echo "Home page two"; ?>
+          <?php echo "Главная страница"; ?>
           <!-- Комплексное обеспечение товарами и расходными материалами бизнеса -->
         </h1>
         <p class="header-text">
